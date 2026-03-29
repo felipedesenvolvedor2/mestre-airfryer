@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mestre-airfryer.vercel.app/sitemap.xml
